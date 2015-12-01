@@ -1,0 +1,26 @@
+Palabras;tazas;recipiente-plural
+Palabras;ola;mar
+Palabras;noveno;numeros
+Palabras;murcielago;animal
+Palabras;ascendentemente;crecimiento continuo
+Ciencia;adn;siglas;genetica;1869
+Ciencia;maquiavelo;persona natual;ciencia politica;año 1549-1512
+Ciencia;viagra;medicamento;ciencia medica;2000
+Ciencia;inmunoglobulinas;anticuerpos;ciencia medica;descubierto en 1920
+Deportes;james;jugador;futbol;mundial 2014
+Deportes;pele;jugador;futbol;brasilero
+Deportes;beisbol;nombre del deporte;en equipo 9 jugadores;bateador
+Deportes;basquetbol;nombre del deporte; en equipo;personas altas
+Deportes;libertadores;nombre del campeonato;futbol;libres
+Entretenimiento;tv;tecnologia;sedentarismo
+Entretenimiento;aeromodelismo;radio control;hobby
+Entretenimiento;tetris;juego de computador;matrices
+Geografia;nilo;rio;africa;el mas largo
+Geografia;colombia;pais;latino america;territorio 
+Geografia;mississippi;rio;america del norte;contaminado
+Historia;newton;fisico;1643-1727;ingles;alquimista
+Historia;simon;libertador;siglo XIX;Colombia;bolivar
+Historia;independencia;libertad;todas las epocas;conquistas;libertad de los paises 
+Idiomas;hello;saludo;ingles;norte america
+Idiomas;ideogramas;tipografia;asiatica;china
+Idiomas;hispanoamericano;gentilicio;español;iberoamerica
